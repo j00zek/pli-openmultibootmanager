@@ -156,7 +156,7 @@ msgid "Fix mount devices (for PLi)"
 msgstr "Napraw zamontowane urządzenia (dla PLi)"
 
 msgid "Flash image"
-msgstr "Wgraj obraz"
+msgstr "Soft zainstalowany w pamięci Flash"
 
 #, python-format
 msgid ""
